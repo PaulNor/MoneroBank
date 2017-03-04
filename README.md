@@ -3,6 +3,8 @@ Easy to use Java GUI wallet for Monero aimed to give best user experience even f
 
 Main features:
 
+-lightweight, no need to townload the whole blockchain locally
+
 -no need use of command lines;
 
 -multiplatform;
@@ -19,4 +21,4 @@ Main features:
 
 
 
-To support the project you can donate XMR to: 4Au6XFEqhxoQrxNk3VPeKAGZ6HyUbAzCJR6EQynV5xkMbkcJLfQY4gfDcMMAWbqVapjJGEry653t6ZYsew6eEwp47kHbnpP
+To support the project you can donate XMR to: 46m4nGMgiwZUqBX3PDc1vS9JVni8cnDma93qSdACWsZ9Yhi2DyPypTs8aBHNcWf6ze84rZh56oaSnYqNxAwNU7SmKDgzd8x
