@@ -20,7 +20,7 @@ Main features:
 -tor proxy support;
 
 No additional fees to the standard Monero fee the service will be mantained only with donations.
-In future will be developed even a mobile version for Android(certainly) and iOS (if someone want to help).
+In future will be developed even a mobile version for Android(certainly) and iOS (if some other developer wants to help).
 
 
 To support the project you can donate XMR to: 46m4nGMgiwZUqBX3PDc1vS9JVni8cnDma93qSdACWsZ9Yhi2DyPypTs8aBHNcWf6ze84rZh56oaSnYqNxAwNU7SmKDgzd8x
