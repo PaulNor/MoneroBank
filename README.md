@@ -19,8 +19,8 @@ Main features:
 
 -tor proxy support;
 
-No additional fees to the standard Monero fee the service will be mantained only with donations.
-In future will be developed even a mobile version for Android(certainly) and iOS (if some other developer wants to help).
 
 
-To support the project you can donate XMR to: 46m4nGMgiwZUqBX3PDc1vS9JVni8cnDma93qSdACWsZ9Yhi2DyPypTs8aBHNcWf6ze84rZh56oaSnYqNxAwNU7SmKDgzd8x
+EDIT 
+The lack of respect of Monero community in less than a day was be able to screwe me to the point that the whole project will be migrated to an alternative Cryptonote based cryptocurrency, no more donation address.
+Sorry but the community is important for a cryptocurrency and I don't want to have nothing to do with a bunch of angry troll who spread shit on people that try to give their free contribute in such way.
