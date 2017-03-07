@@ -3,7 +3,7 @@ Easy to use Java GUI wallet for Monero aimed to give best user experience even f
 
 Main features:
 
--lightweight, no need to townload the whole blockchain locally
+-lightweight, no need to download the whole blockchain locally
 
 -no need use of command lines;
 
